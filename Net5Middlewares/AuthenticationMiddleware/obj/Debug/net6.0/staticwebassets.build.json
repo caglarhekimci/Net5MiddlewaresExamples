@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "um1is4IWGreZ/dBH/W9GxSafy9+692KO3knQ/KNLSnA=",
+  "Source": "AuthenticationMiddleware",
+  "BasePath": "_content/AuthenticationMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

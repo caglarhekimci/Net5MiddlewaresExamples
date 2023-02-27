@@ -1,0 +1,16 @@
+GET /WeatherForecast => 200
+GET /WeatherForecast/test => 404
+GET /favicon.ico => 404
+GET /WeatherForecast/test => 404
+GET /WeatherForecast/test => 404
+GET /WeatherForecast/ => 200
+GET /WeatherForecast/ => 200
+GET /WeatherForecast/test => 404
+GET /WeatherForecast/test => 404
+GET /WeatherForecast/ => 200
+GET /WeatherForecast/ => 200
+GET /WeatherForecast/asd => 404
+Hello MiddleWareGET /WeatherForecast/ => 200
+GET /WeatherForecast/sdfg => 404
+GET /WeatherForecast => 200
+GET /weatherForecast/sadfdsaf => 404
